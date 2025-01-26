@@ -7,6 +7,8 @@ Navigating Directories
 
 Clear Screen
 
+Reset
+
 #### Navigating Directories
 
 > cd -
@@ -24,6 +26,15 @@ Clear Screen
 
 > ctrl + l
 **shortcut to clear screen**
+
+#### Reset
+
+> reset
+**resets shell**
+
+
+
+
 
  
 

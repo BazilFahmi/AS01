@@ -19,7 +19,9 @@ Search history for previous commands
 
 Adjust Font Size
 
-Clear all text on line
+text shortcut
+
+Chaining command
 
 
 #### Navigating Directories
@@ -91,10 +93,23 @@ Clear all text on line
 > ctrl + "-"
 **decrease font size**
 
-#### delete all text on prompt
+#### text shortcut
 
 > ctrl + u
 **delete all text on prompt**
 
+> ctrl + a
+**goes to the start of the line**
 
+> ctrl + e
+**goes to end of the line**
+
+#### Chaining commands
+> ";" between commands
+**allows commands to be chained** 
+***if one command does not work it will still run***
+
+> "&&" between commands
+**allows commands to be chanined**
+***if one command does not work all will not work***
 

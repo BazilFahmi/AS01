@@ -5,16 +5,17 @@
 ### Navigating Directories
 
 > cd -
-
 **goes to home directory**
 
 >cd ~
-
 **goes to previous directory**
 
 ### Clear screen
 
-> clear 
+> clear
+**clear's screen**
+***or***
+
  
 
 

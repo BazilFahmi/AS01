@@ -13,6 +13,7 @@ Pop & Push directory
 
 Minimize app 
 
+Repeat last command 
 
 
 #### Navigating Directories
@@ -54,9 +55,12 @@ Minimize app
 > fg
 **brings back app to foreground**
 
+##### Repeat last command
+> !! 
+**repeats last command**
 
-
-
+> sudo !!
+**repeats last command but adds sudo in the front**
 
 
 

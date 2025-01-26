@@ -15,6 +15,9 @@ Minimize app
 
 Repeat last command 
 
+Search history for previous commands
+
+
 
 #### Navigating Directories
 
@@ -62,10 +65,13 @@ Repeat last command
 > sudo !!
 **repeats last command but adds sudo in the front**
 
+#### Search history for previous commands
 
+> ctrl + r
+**enters search field for past commands**
 
-
- 
+> history
+**displays all previous commands**
 
 
  

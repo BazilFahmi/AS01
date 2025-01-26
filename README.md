@@ -39,8 +39,9 @@ Pop & Push directory
 > pushd /directory_name
 **pushes into new directory but also creates a stack**
 
->popd /returns 
-**to previous directory within the push stack.**
+>popd /
+**returns to previous directory within the push stack.**
+
 
 
 

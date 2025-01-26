@@ -72,7 +72,9 @@ Search history for previous commands
 
 > history
 **displays all previous commands**
-
+ 
+> !(Number)
+**uses commands from history according to number**
 
  
 

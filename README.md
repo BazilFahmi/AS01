@@ -17,6 +17,9 @@ Repeat last command
 
 Search history for previous commands
 
+Adjust Font Size
+
+Clear all text on line
 
 
 #### Navigating Directories
@@ -76,5 +79,22 @@ Search history for previous commands
 > !(Number)
 **uses commands from history according to number**
 
- 
+> HISTTIMEFORMAT="%Y-%m-%d %T "
+**sets all previous commanmds with date & time format**
+***resets after closing shell***
+
+#### Adjust font size
+
+> ctrl + shift + "+"
+**increase font size**
+
+> ctrl + "-"
+**decrease font size**
+
+#### delete all text on prompt
+
+> ctrl + u
+**delete all text on prompt**
+
+
 

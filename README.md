@@ -106,10 +106,12 @@ Chaining command
 
 #### Chaining commands
 > ";" between commands
-**allows commands to be chained** 
+**allows commands to be chained**
+
 ***if one command does not work it will still run***
 
 > "&&" between commands
 **allows commands to be chanined**
+
 ***if one command does not work all will not work***
 

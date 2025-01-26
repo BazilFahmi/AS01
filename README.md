@@ -4,6 +4,7 @@
 
 ### Table of Contents
 Navigating Directories
+
 Clear Screen
 
 #### Navigating Directories

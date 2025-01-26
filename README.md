@@ -18,7 +18,7 @@
 ***or***
 
 > ctrl + l
- **shortcut to clear screen**
+**shortcut to clear screen**
 
  
 

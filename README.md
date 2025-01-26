@@ -14,7 +14,11 @@
 
 > clear
 **clear's screen**
+
 ***or***
+
+> ctrl + l
+**shortcut to clear screen**
 
  
 

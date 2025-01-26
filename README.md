@@ -2,7 +2,9 @@
 
 ## 18 commands That will change the way you use linux forever
 
-### Navigating Directories
+### Table of Contents
+
+#### Navigating Directories
 
 > cd -
 **goes to home directory**
@@ -10,7 +12,7 @@
 >cd ~
 **goes to previous directory**
 
-### Clear screen
+#### Clear screen
 
 > clear
 **clear's screen**

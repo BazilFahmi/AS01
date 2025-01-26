@@ -3,6 +3,7 @@
 ## 18 commands That will change the way you use linux forever
 
 ### Table of Contents
+Navigating Directories
 
 #### Navigating Directories
 

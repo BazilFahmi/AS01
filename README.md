@@ -10,6 +10,11 @@
 >cd ~
 **goes to previous directory**
 
+### Clear screen
+
+> clear
+ 
+
 
  
 

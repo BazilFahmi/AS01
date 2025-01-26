@@ -1,4 +1,15 @@
 # Week 1
-## Navigating Directories
+
+## 18 commands That will change the way you use linux forever
+
+### Navigating Directories
 
 > cd -
+**goes to home directory**
+
+>cd ~
+**goes to previous directory**
+
+
+ 
+
